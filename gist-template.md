@@ -60,7 +60,8 @@ im unsure about this one
 
 ### Greedy and Lazy Match
 
-there are none
+([a-z0-9_\.-]+) is a greedy match
+([\da-z\.-]+) is a greedy match
 
 ### Boundaries
 
